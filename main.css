@@ -927,11 +927,11 @@
 			}
 
 				table.alt tbody tr td:first-child {
-					border-left-width: 1px;
+					border-left-width: 2px;
 				}
 
 			table.alt tbody tr:first-child td {
-				border-top-width: 1px;
+				border-top-width: 2px;
 			}
 
 			table.alt thead {
@@ -1232,7 +1232,7 @@
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 2px #ffffff;
+			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
 
@@ -1243,8 +1243,8 @@
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
-			border-top-width: 2px;
-			border-bottom-width: 2px;
+			border-top-width: 1px;
+			border-bottom-width: 1px;
 			max-width: 100%;
 		}
 
