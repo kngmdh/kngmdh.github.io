@@ -122,7 +122,7 @@
 		color: #ffffff;
 		font-family: "Source Sans Pro", sans-serif;
 		font-weight: 300;
-		font-size: 1rem;
+		font-size: 1.5rem;
 		line-height: 1.65;
 	}
 
@@ -370,7 +370,7 @@
 		transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		background: transparent;
 		border-radius: 4px;
-		border: solid 1px #ffffff;
+		border: solid 2px #ffffff;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -521,7 +521,7 @@
 		input[type="radio"]:focus + label:before {
 			background: rgba(255, 255, 255, 0.075);
 			border-color: #ffffff;
-			box-shadow: 0 0 0 1px #ffffff;
+			box-shadow: 0 0 0 2px #ffffff;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -561,7 +561,7 @@
 
 	.box {
 		border-radius: 4px;
-		border: solid 1px #ffffff;
+		border: solid 2px #ffffff;
 		margin-bottom: 2rem;
 		padding: 1.5em;
 	}
@@ -715,7 +715,7 @@
 		}
 
 			ul.alt li {
-				border-top: solid 1px #ffffff;
+				border-top: solid 2px #ffffff;
 				padding: 0.5em 0;
 			}
 
@@ -741,7 +741,7 @@
 
 				ul.icons li a {
 					border-radius: 100%;
-					box-shadow: inset 0 0 0 1px #ffffff;
+					box-shadow: inset 0 0 0 2px #ffffff;
 					display: inline-block;
 					height: 2.25rem;
 					line-height: 2.25rem;
@@ -887,7 +887,7 @@
 	}
 
 		table tbody tr {
-			border: solid 1px #ffffff;
+			border: solid 2px #ffffff;
 			border-left: 0;
 			border-right: 0;
 		}
@@ -921,7 +921,7 @@
 		}
 
 			table.alt tbody tr td {
-				border: solid 1px #ffffff;
+				border: solid 2px #ffffff;
 				border-left-width: 0;
 				border-top-width: 0;
 			}
@@ -960,7 +960,7 @@
 		background-color: transparent;
 		border-radius: 4px;
 		border: 0;
-		box-shadow: inset 0 0 0 1px #ffffff;
+		box-shadow: inset 0 0 0 2px #ffffff;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
@@ -1232,7 +1232,7 @@
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			border: solid 2px #ffffff;
 			border-radius: 100%;
 		}
 
@@ -1243,8 +1243,8 @@
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
-			border-top-width: 1px;
-			border-bottom-width: 1px;
+			border-top-width: 2px;
+			border-bottom-width: 2px;
 			max-width: 100%;
 		}
 
